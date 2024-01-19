@@ -1,0 +1,1 @@
+A second project called odin-recipes2 that have better HTML structure and CSS styling than the original odin-recipes project. The goal of it is to help me understand better both HTML and CSS.
